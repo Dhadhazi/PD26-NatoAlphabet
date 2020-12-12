@@ -1,4 +1,4 @@
-# 20th Day of Python - Nato Alphabet
+# 26th Day of Python - Nato Alphabet
 
 I mostly program these before watching the video, so some might not be self work.
 
